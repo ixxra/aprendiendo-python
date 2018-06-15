@@ -1,4 +1,4 @@
 # Referencias
 
-* [https://pythonbooks.revolunet.com/]
+* (https://pythonbooks.revolunet.com/)
 
