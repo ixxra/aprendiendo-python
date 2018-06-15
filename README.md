@@ -2,4 +2,4 @@
 
 ## Indice
 
-* [https://github.com/ixxra/aprendiendo-python/blob/master/_matplotlib.ipynb](Graficar y ver imagenes)
+* [Graficar y ver imagenes](https://github.com/ixxra/aprendiendo-python/blob/master/_matplotlib.ipynb)
